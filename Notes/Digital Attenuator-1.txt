@@ -1,0 +1,502 @@
+
+
+SPDT RF Switches
+
+SKY13268-344
+http://search.digikey.com/us/en/products/SKY13268-344LF/863-1047-1-ND/2052179
+Freq Range: 300kHz-3GHz
+Max Input Power: 37.8dBm (6 W)
+Insertion Loss: 0.4dB
+Isolation: 25dB
+Qty: 
+U/P: $0.53
+T/P: $
+
+RF3025
+http://www.rfmw.com/ProductDetail/RF3025/392839
+RF Switch, SPDT
+Frequency Min: 0.01 GHz 
+Frequency Max: 6 GHz 
+Insertion Loss Range: 0.5 dB 
+Isolation Range: 58 dB 
+Power Rating: 27 dBm (0.5 W)
+U/P: $2.00 (x25)
+
+FMS2031-001
+http://www.rfmw.com/ProductDetail/FMS2031001/319867/
+https://estore.rfmd.com/RFMD_Onlinestore/Products/RFMD+Parts/PID-P_FMS2031-001.aspx?DC=25
+10W GaAs pHEMT SPDT Switch
+Frequency Range (Min) (MHz):  0 
+Frequency Range (Max) (MHz):  6000 
+Insertion Loss (dB):  0.5 
+Isolation (dB):  32 
+Max Power: 39-41 dBm (7.9-12.5 W)
+U/P: 25 @ $3.03 EA
+
+
+
+
+
+SP3T RF Switches
+
+SKY13385-460LF
+http://search.digikey.com/us/en/products/SKY13385-460LF/683-1339-1-ND/2658319
+Freq Range: 0.1-3.5 GHz
+Max Input Power: 35dBm (3.16 W)
+Insertion Loss: 0.45dBm
+Isolation: 30dB
+Qty: 
+U/P: $0.79
+T/P: $
+
+SKY13251-349LF
+http://www.rfmw.com/ProductDetail/SKY13251349LF/184872
+RF Switch, SP3T
+Frequency Min: 0 GHz 
+Frequency Max: 3 GHz 
+Insertion Loss Range: 0.4 to 0.5 dB 
+Isolation Range: 18 to 27 dB 
+Power Rating: 38 dBm (6.3 W)
+U/P: $0.60
+
+
+
+
+
+SP4T RF Switches
+
+PE42641MLIBB-Z
+http://search.digikey.com/us/en/products/PE42641MLIBB-Z/1046-1013-1-ND/2614517
+Freq Range: 0-3 GHz
+Max Input Power: 38dBm (6.3 W)
+Insertion Loss: 0.45dBm
+Isolation: 43dB
+Qty: 
+U/P: $2.77
+T/P: $
+
+
+
+
+
+
+
+
+
+Step Attenuator Chain:
+
+TQP4M9072
+http://www.mouser.com/ProductDetail/TriQuint-Semiconductor/TQP4M9072/?qs=sGAEpiMZZMu8UjT63VDmae38Iv%2f%2fMC7uAy4ZHROMdKk%3d
+Freq Range: 0-4GHz
+LSB: 0.5dB
+Max Input Power: 28dBm (0.6 W)
+Insertion Loss: 1.5dB
+Accuracy: 0.3 + 3%
+Max Attenuation: 31.5dB
+Qty: 
+U/P: $4.18
+T/P: $
+
+-------------------
+
+HMC629LP4 / 629LP4E
+http://www.hittite.com/products/view.html/view/HMC629LP4
+http://www.hittite.com/shop/product.php?productid=1403
+Freq Range: DC-6GHz
+LSB: 3 dB
+Max Attenuation: 45 dB
+Input Power: 28 dBm (0.6 W)
+Insertion Loss DC - 6: 2.5 dB
+Accuracy: 0.50 + 5% of Atten. Setting
+$9.75 OR $7.50
+
+
+
+
+
+
+
+Fixed Attenuators:
+
+33-1001-10.00
+NO DATASHEET (requested 20111105)
+http://www.rfmw.com/ProductDetail/3310011000/302627
+Attenuator, Fixed
+Frequency Min: 0 GHz 
+Frequency Max: 4 GHz 
+dB Value: 10 dB 
+Power Handling: 20 W (43 dBm)
+U/P: $16.98
+
+
+D10AA5Z4
+http://www.rell.com/Pages/Product-Details.aspx?productId=728179
+Power 7 W (38.5 dBm)
+Attenuation 3 dB
+Frequency Max 3000 MHz
+$4.34
+
+
+D10AA3Z4
+http://www.rell.com/Pages/Product-Details.aspx?productId=728176
+Power 7 W (38.5 dBm)
+Attenuation 3 dB
+Frequency Max 3000 MHz
+$4.34
+
+
+83A399506.00F
+NO DATASHEET (Requested 20111105)
+http://www.rfmw.com/ProductDetail/83A39950600F/325214
+Attenuator, Fixed
+Frequency Min: 0 GHz 
+Frequency Max: 3 GHz 
+dB Value: 6 dB 
+Power Handling: 5 W (37 dBm)
+U/P: $12.47
+
+
+ATN3590-XX
+Fixed Attenuators 2W (33 dBm)
+http://www.rfmw.com/Paw.aspx?type=330
+Freq Range: 0-40 GHz
+Attenuation: 1-40 dB
+U/P: $3.00-$3.25
+
+
+
+
+
+
+
+
+
+
+RF Detectors:
+
+LT5538IDD#PBF
+http://search.digikey.com/us/en/products/LT5538IDD%23PBF/LT5538IDD%23PBF-ND/1931120
+Input Range: -75dBm ~ 10dBm
+Frequency: 40MHz ~ 3.8GHz
+Qty: 
+U/P: $9.55
+T/P: $
+
+
+LT5534
+http://search.digikey.com/us/en/products/LT5534ESC6%23TRMPBF/LT5534ESC6%23TRMPBFCT-ND/962666
+Input Range: -63dBm to -3dBm
+Frequency: 50MHz ~ 3GHz
+Qty: 
+U/P: $10.30
+T/P: $
+
+
+
+
+
+CONN FMALE-ON-BRD 6POS VERT T/H
+Connector for Encoders
+P/N: 7-215079-6
+http://search.digikey.com/us/en/products/7-215079-6/A30729CT-ND/740377
+Pitch 0.100" (2.54mm)
+Qty: 
+U/P: $1.33
+T/P: $
+
+
+ENCODER OPT 32PPR IP65 5" CABLE
+C14D32P-B3A
+Quadrature Encoder with pushbutton
+http://search.digikey.com/us/en/products/C14D32P-B3A/102-2034-ND/2193096
+Encoder Type Optical
+Voltage - Supply 5VDC
+Pulses per Revolution 32
+Actuator Type 1/4" Dia Flatted End
+Detent Yes
+Built in Switch Yes
+Qty: 
+U/P: $17.78
+T/P: $
+
+
+Long Shaft Rotary Encoder
+ENCODER 11MM ROTARY SW TOP ADJ
+EN11-HSM1BF20
+http://search.digikey.com/us/en/products/EN11-HSM1BF20/987-1398-ND/2620667
+Actuator Type: 6mm Dia Flatted End
+Detent: Yes
+Built in Switch: Yes
+Qty: 
+U/P: $1.35
+T/P: $
+
+
+Short Shaft Rotary Encoder
+ENCODER 11MM ROTARY SW TOP ADJ
+EN11-HSM1AF15
+http://search.digikey.com/us/en/products/EN11-HSM1AF15/987-1188-ND/2408766
+Actuator Type: 6mm Dia Flatted End
+Detent: Yes
+Built in Switch: Yes
+Qty: 
+U/P: $1.35
+T/P: $
+
+
+KNOB PLASTIC 1/4" DIA BLACK
+Knob for encoders (can I find a better one?)
+http://search.digikey.com/us/en/products/11K5014-KCNB/GH7339-ND/1534744
+Qty: 
+U/P: $0.65
+T/P: $
+
+
+BOX HANDHELD TG 4.92 X 3.15 X 1.84"
+Project Enclosure
+P/N: 270102110
+http://search.digikey.com/scripts/dksearch/dksus.dll?vendor=0&keywords=27010211&stock=1
+http://www.rose-bopla.com/Prod_Pgs/Handhelds/Prod_04_TG_130_Handheld.htm
+Features Battery Door, PCB Supports
+Qty: 1
+U/P: $11.58
+T/P: $11.58
+
+
+CONN SOCKET BNC R/A 50 OHM PCB
+BNC Connectors
+P/N: 1-1337543-0
+http://search.digikey.com/us/en/products/1-1337543-0/A97553-ND/1755940
+Impedance 50 Ohm
+Mounting Type Through Hole, Right Angle 
+Fastening Type Bayonet Lock
+Frequency - Max 4GHz
+Qty: 2
+U/P: $2.30
+T/P: $4.60
+
+
+BEZEL 2.5" BLK PLAS W/O LENS 3PC
+LCD Bezel
+P/N: 6102010
+http://search.digikey.com/us/en/products/6102010/PRD250B-ND/151877
+Size / Dimension 2.5" (63.5mm)
+Qty: 1
+U/P: $2.34
+T/P: $2.34
+
+
+Standard LCD 20x4 + extras - white on blue
+http://www.adafruit.com/products/198
+http://www.adafruit.com/datasheets/TC1602A-01T.pdf
+http://www.adafruit.com/datasheets/HD44780.pdf
+Qty: 1
+U/P: $9.95
+T/P: $9.95
+
+
+i2c / SPI character LCD backpack
+http://www.adafruit.com/products/292
+http://www.ladyada.net/products/i2cspilcdbackpack/
+Qty: 1
+U/P: $10.00
+T/P: $10.00
+
+
+TRIMMER 200 OHM 0.25W SMD
+Trimmer/Potentiometer for alignment of attenuation to attenuators
+P/N: SM-42TW201
+http://search.digikey.com/us/en/products/SM-42TW201/SM-42TW201CT-ND/1632393
+Resistance (Ohms): 200
+Power (Watts): 0.25W, 1/4W
+Number of Turns: 11 
+Adjustment Type Top Adjustment
+Qty: 
+U/P: $2.79
+T/P: $
+
+
+TRIMMER 20 OHM 0.25W SMD
+Trimmer/Potentiometer for alignment of attenuation to RF detector
+P/N: 3269W-1-200LF
+http://search.digikey.com/us/en/products/3269W-1-200LF/3269W-1-200LF-ND/1211542
+Resistance (Ohms): 20
+Power (Watts): 0.25W, 1/4W
+Number of Turns: 12
+Adjustment Type Top Adjustment
+Qty: 
+U/P: $5.64
+T/P: $
+
+
+TRIMMER 500 OHM 0.25W SMD
+Trimmer/Potentiometer for alignment of attenuation to RF detector
+P/N: SM-42TW501
+http://search.digikey.com/us/en/products/SM-42TW501/SM-42TW501CT-ND/1632394
+Resistance (Ohms): 500
+Power (Watts): 0.25W, 1/4W
+Number of Turns: 11 
+Adjustment Type Top Adjustment
+Qty: 
+U/P: $2.79
+T/P: $
+
+
+KEYPAD 4 KEY MEMBRANE SW GRAY
+P/N: FMBN04BE
+http://search.digikey.com/us/en/products/FMBN04BE/360-2295-ND/1830605
+Switch Type Membrane (Snap Dome)
+Number of Keys 4
+Matrix (Columns x Rows) 1 x 4
+Legend Customizable (Included)
+Qty: 1
+U/P: $20.48
+T/P: $20.48
+
+
+
+
+
+
+RES 5.1K OHM 1/4W 5% 1206 SMD (3.20mm x 1.60mm)
+5.1 KOhm External Pull-up Resistors for Encoder
+RMCF1206JT5K10
+http://search.digikey.com/us/en/products/RMCF1206JT5K10/RMCF1206JT5K10CT-ND/1942798
+Qty: 1
+U/P: $0.05
+T/P: $0.05
+
+
+CAP CER 0.3PF 50V 0603 (1.60mm x 0.84mm)
+0.3 pF ±0.05pF coupling capacitor for RF Detector (to obtain ~20db loss) (qty 1)
+ML03510R3AAT2A
+http://search.digikey.com/us/en/products/ML03510R3AAT2A/478-6725-1-ND/2694239
+Qty: 1
+U/P: $0.88
+T/P: $0.88
+
+
+RES PREC 100 OHM 333MW .1% 1206 (3.20mm x 1.60mm)
+100 Ohm +/-5% coupling resistor for RF Detector (to obtain ~20db loss)
+PFC-W1206LF-03-1000-B-1059
+http://search.digikey.com/us/en/products/PFC-W1206LF-03-1000-B-1059/989-1154-1-ND/2407974
+Qty: 1
+U/P: $0.65
+T/P: $0.65
+
+
+CAP CER 0.1UF 50V 10% X7R 1206
+0.1 uF Ceramic Bypass Capacitor for Digital Circuitry
+12065C104KAT2A
+http://search.digikey.com/us/en/products/12065C104KAT2A/478-1556-1-ND/564588
+Qty: 20
+U/P: $0.077
+T/P: $1.54
+
+
+Bulk Bypass Capacitors
+CAP CER 10UF 25V Y5V 1206
+C3216Y5V1E106Z
+http://search.digikey.com/us/en/products/C3216Y5V1E106Z/445-3469-1-ND/1801568
+Qty: Multiple
+U/P: $0.36
+T/P: $
+
+
+CAP CERAMIC 100PF 50V NP0 1206
+100 pF capacitors for SPDT RF Switch DC Blocking (qty 3)
+C1206C101J5GACTU
+http://search.digikey.com/us/en/products/C1206C101J5GACTU/399-1205-1-ND/411480
+Qty: 3
+U/P: $0.31
+T/P: $0.93
+
+
+RES TF 15 OHM 5% 0.25W 1206
+15 Ohm Pull-up resistor for TQP4M9072 Attenuator
+RMCF1206JT15R0
+http://search.digikey.com/us/en/products/RMCF1206JT15R0/RMCF1206JT15R0CT-ND/2418885
+Qty: 1
+U/P: $0.05
+T/P: $0.05
+
+
+CAP CERAMIC 1000PF 50V NP0 1206
+1 nF coupling capacitor for TQP4M9072 Attenuator (qty 2)
+C1206C102J5GACTU
+http://search.digikey.com/us/en/products/C1206C102J5GACTU/399-1218-1-ND/411493
+Qty: 2
+U/P: $0.33
+T/P: $0.66
+
+
+CAP CER 330PF 630V C0G 5% 1206
+330 pF Bypass Capacitor for TQP4M9072 Attenuator (qty 4)
+C3216C0G2J331J
+http://search.digikey.com/us/en/products/C3216C0G2J331J/445-2339-1-ND/789848
+Qty: 4
+U/P: $0.36
+T/P: $1.44
+
+
+RES 33 OHM 1/4W 5% 1206 SMD
+33 Ohm Limiting resistors for TQP4M9072 Attenuator
+RMCF1206JT33R0
+http://search.digikey.com/us/en/products/RMCF1206JT33R0/RMCF1206JT33R0CT-ND/1942758
+Qty: 3
+U/P: $0.05
+T/P: $0.15
+
+
+CAP CERAMIC 47PF 50V NP0 1206
+47 pF Bypass Capacitor for TQP4M9072 Attenuator (qty 3)
+C1206C470J5GACTU
+http://search.digikey.com/us/en/products/C1206C470J5GACTU/399-1201-1-ND/411476
+Qty: 3
+U/P: $0.31
+T/P: $0.93
+
+
+IC REG LDO 300MA 5.0V SOT23-5
+5V Regulator
+MCP1802T-5002I/OT
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=MCP1802T-5002I/OTCT-ND
+Qty: 1
+U/P: $0.65
+T/P: $0.65
+
+
+IC MCU AVR 128K FLASH 40PDIP (Equivalent 644 is actually more expensive @ $7.98)
+ATMEGA1284-PU
+http://search.digikey.com/us/en/products/ATMEGA1284-PU/ATMEGA1284-PU-ND/2271218
+Qty: 1
+U/P: $7.33
+T/P: $7.33
+
+
+20MHz Crystal
+9C-20.000MEEJ-T
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=887-1278-1-ND
+Qty: 1
+U/P: $0.68
+T/P: $0.68
+
+
+Crystal Load Caps
+CAP CER 12PF 50V NP0 1206
+C1206C120J5GACTU
+http://search.digikey.com/us/en/products/C1206C120J5GACTU/399-1193-1-ND/411468
+Qty: 2
+U/P: $0.31
+T/P: $0.62
+
+
+uC Reset
+RES 4.7K OHM 1/4W 5% 1206 SMD
+RMCF1206JT4K70
+http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206JT4K70CT-ND
+Qty: 1
+Price: $0.05
+Tot Price: $0.05
+
+
