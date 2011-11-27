@@ -23,8 +23,9 @@ This project grew out of dissatisfaction for products currently on the market. A
 
 *File Structure*
 
-* ./AttenuatorX/ --> Kicad Project for AttenuatorX Hardware (RF PCB and Controller PCB)
-* ./AttenuatorXLE/ --> Kicad Project for AttenuatorXLE Hardware (RF PCB and Controller PCB)
+* ./AttenuatorX/ --> Kicad Project for AttenuatorX RF Hardware
+* ./AttenuatorXLE/ --> Kicad Project for AttenuatorXLE RF Hardware
+* ./AttenuatorX Controller/ --> Kicad Project Controller for both RF Boards
 * ./Firmware/ --> Firmware for both projects (Written in C Utilizing AVR Studio 5 and AVRGCC)
 * ./Notes/ --> Project Notes, BOM, and Research on Attenuation and attenuators
 
