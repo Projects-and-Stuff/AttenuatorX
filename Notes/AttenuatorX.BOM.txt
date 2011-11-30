@@ -459,7 +459,16 @@ RES 4.7K OHM 1/4W 5% 1206 SMD
 RMCF1206JT4K70
 http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206JT4K70CT-ND
 Qty: 1
-Price: $0.05
-Tot Price: $0.05
+U/P: $0.05
+T/P: $0.05
 
 
+
+
+
+EMI/RFI Shielding
+Super Shield Conductive Coating
+http://www.mgchemicals.com/products/841.html
+Qty: 1
+U/P: ~$35
+T/P: ~$35
