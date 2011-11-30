@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 11/26/2011 4:24:45 PM
+EESchema Schematic File Version 2  date 11/30/2011 4:16:40 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,7 +29,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:AttenuatorX
 LIBS:AttenuatorXLE-cache
 EELAYER 25  0
 EELAYER END
@@ -37,7 +36,7 @@ $Descr User 11000 8500
 encoding utf-8
 Sheet 1 1
 Title "AttenuatorXLE"
-Date "26 nov 2011"
+Date "30 nov 2011"
 Rev "1"
 Comp "Projects and Stuff LLC"
 Comment1 "Attenuation: 10-41.5 dB in 0.5 dB Steps"
@@ -45,6 +44,8 @@ Comment2 "Input Power: -14 to +36 dBm"
 Comment3 "Frequency Range: 50 MHz to 3 GHz"
 Comment4 "Control Voltage: +5V"
 $EndDescr
+Text Label 2700 5400 2    60   ~ 0
+V1
 NoConn ~ 7950 3050
 Wire Wire Line
 	4150 1450 4150 1400
@@ -81,7 +82,7 @@ Wire Wire Line
 Wire Wire Line
 	2800 4900 2700 4900
 Wire Wire Line
-	2800 5400 2700 5400
+	2800 5500 2700 5500
 Wire Wire Line
 	2800 5200 2700 5200
 Wire Wire Line
@@ -268,9 +269,9 @@ Wire Wire Line
 Wire Wire Line
 	2800 5100 2700 5100
 Wire Wire Line
-	2800 5300 2700 5300
+	2800 5400 2700 5400
 Wire Wire Line
-	2800 5500 2700 5500
+	2800 5300 2700 5300
 Wire Wire Line
 	2800 4800 2700 4800
 Wire Wire Line
@@ -418,12 +419,10 @@ Text Label 2700 5100 2    60   ~ 0
 CLK
 Text Label 2700 5200 2    60   ~ 0
 LE
-Text Label 2700 5500 2    60   ~ 0
-VOUT
-Text Label 2700 5400 2    60   ~ 0
-V2
 Text Label 2700 5300 2    60   ~ 0
-V1
+VOUT
+Text Label 2700 5500 2    60   ~ 0
+V2
 $Comp
 L GND #PWR04
 U 1 1 4ECFD41A

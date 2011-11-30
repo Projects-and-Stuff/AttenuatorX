@@ -37,31 +37,6 @@ U/P: 25 @ $3.03 EA
 
 
 
-SP3T RF Switches
-
-SKY13385-460LF
-http://search.digikey.com/us/en/products/SKY13385-460LF/683-1339-1-ND/2658319
-Freq Range: 0.1-3.5 GHz
-Max Input Power: 35dBm (3.16 W)
-Insertion Loss: 0.45dBm
-Isolation: 30dB
-Qty: 
-U/P: $0.79
-T/P: $
-
-SKY13251-349LF
-http://www.rfmw.com/ProductDetail/SKY13251349LF/184872
-RF Switch, SP3T
-Frequency Min: 0 GHz 
-Frequency Max: 3 GHz 
-Insertion Loss Range: 0.4 to 0.5 dB 
-Isolation Range: 18 to 27 dB 
-Power Rating: 38 dBm (6.3 W)
-U/P: $0.60
-
-
-
-
 
 SP4T RF Switches
 
@@ -74,9 +49,6 @@ Isolation: 43dB
 Qty: 
 U/P: $2.77
 T/P: $
-
-
-
 
 
 
@@ -174,15 +146,6 @@ U/P: $3.00-$3.25
 
 RF Detectors:
 
-LT5538IDD#PBF
-http://search.digikey.com/us/en/products/LT5538IDD%23PBF/LT5538IDD%23PBF-ND/1931120
-Input Range: -75dBm ~ 10dBm
-Frequency: 40MHz ~ 3.8GHz
-Qty: 
-U/P: $9.55
-T/P: $
-
-
 LT5534
 http://search.digikey.com/us/en/products/LT5534ESC6%23TRMPBF/LT5534ESC6%23TRMPBFCT-ND/962666
 Input Range: -63dBm to -3dBm
@@ -190,6 +153,9 @@ Frequency: 50MHz ~ 3GHz
 Qty: 
 U/P: $10.30
 T/P: $
+
+
+
 
 
 
@@ -276,31 +242,21 @@ U/P: $2.30
 T/P: $4.60
 
 
-BEZEL 2.5" BLK PLAS W/O LENS 3PC
-LCD Bezel
-P/N: 6102010
-http://search.digikey.com/us/en/products/6102010/PRD250B-ND/151877
-Size / Dimension 2.5" (63.5mm)
+SNAPS 9V 6" LEADS I-STYLE
+9V Battery Clip
+Part Number: BS6I
+http://search.digikey.com/us/en/products/BS6I/BS6I-ND/32055
 Qty: 1
-U/P: $2.34
-T/P: $2.34
+U/P: $0.53
+T/P: $0.53
 
 
-Standard LCD 20x4 + extras - white on blue
-http://www.adafruit.com/products/198
-http://www.adafruit.com/datasheets/TC1602A-01T.pdf
-http://www.adafruit.com/datasheets/HD44780.pdf
+LCD COG CHAR 2X16 TRANSFL
+LCD (Outline L x W x H	54.70mm X 25.30mm X 5.00mm)
+http://search.digikey.com/us/en/products/NHD-C0216AZ-FSW-GBW/NHD-C0216AZ-FSW-GBW-ND/2165869
 Qty: 1
-U/P: $9.95
-T/P: $9.95
-
-
-i2c / SPI character LCD backpack
-http://www.adafruit.com/products/292
-http://www.ladyada.net/products/i2cspilcdbackpack/
-Qty: 1
-U/P: $10.00
-T/P: $10.00
+U/P: $10.11
+T/P: $10.11
 
 
 TRIMMER 200 OHM 0.25W SMD
@@ -457,6 +413,13 @@ U/P: $0.31
 T/P: $0.93
 
 
+
+
+
+
+
+
+
 IC REG LDO 300MA 5.0V SOT23-5
 5V Regulator
 MCP1802T-5002I/OT
@@ -466,12 +429,12 @@ U/P: $0.65
 T/P: $0.65
 
 
-IC MCU AVR 128K FLASH 40PDIP (Equivalent 644 is actually more expensive @ $7.98)
-ATMEGA1284-PU
-http://search.digikey.com/us/en/products/ATMEGA1284-PU/ATMEGA1284-PU-ND/2271218
+ATMEGA48/88/168/328 (A,P,PA)
+Atmel AVR Microcontroller (ATMEGA168A) IC MCU AVR 16K FLASH 32TQFP
+http://search.digikey.com/us/en/products/ATMEGA168A-AU/ATMEGA168A-AU-ND/2271188
 Qty: 1
-U/P: $7.33
-T/P: $7.33
+U/P: $3.23
+T/P: $3.23
 
 
 20MHz Crystal

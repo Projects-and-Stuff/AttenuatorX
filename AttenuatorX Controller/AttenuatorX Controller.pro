@@ -1,4 +1,4 @@
-update=11/8/2011 9:21:14 PM
+update=11/30/2011 4:20:54 PM
 version=1
 last_client=eeschema
 [cvpcb]
@@ -141,5 +141,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=AttenuatorX
-LibName32=PASLogo
+LibName31=PASLogo
+LibName32=C:/Users/Jack/Documents/KiCAD Projects/AttenuatorX/AttenuatorX/AttenuatorX

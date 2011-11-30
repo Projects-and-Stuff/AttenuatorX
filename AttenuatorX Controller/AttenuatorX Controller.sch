@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 11/9/2011 9:58:21 PM
+EESchema Schematic File Version 2  date 11/30/2011 4:39:06 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -30,7 +30,6 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:AttenuatorX
-LIBS:PASLogo
 LIBS:AttenuatorX Controller-cache
 EELAYER 25  0
 EELAYER END
@@ -38,7 +37,7 @@ $Descr B 17000 11000
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "8 nov 2011"
+Date "30 nov 2011"
 Rev ""
 Comp ""
 Comment1 ""
@@ -46,15 +45,6 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-$Comp
-L LOGO #G?
-U 1 1 4EB95E35
-P 11850 10050
-F 0 "#G?" H 11850 9670 80  0001 C CNN
-F 1 "LOGO" H 11850 10430 60  0001 C CNN
-	1    11850 10050
-	1    0    0    -1  
-$EndComp
 Text Label 3200 1850 0    60   ~ 0
 VCC
 Connection ~ 3000 1850
