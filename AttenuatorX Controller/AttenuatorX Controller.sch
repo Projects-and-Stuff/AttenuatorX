@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 11/30/2011 4:39:06 PM
+EESchema Schematic File Version 2  date 12/1/2011 10:25:59 PM
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -37,7 +37,7 @@ $Descr B 17000 11000
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "30 nov 2011"
+Date "1 dec 2011"
 Rev ""
 Comp ""
 Comment1 ""
@@ -45,33 +45,44 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Label 3200 1850 0    60   ~ 0
-VCC
-Connection ~ 3000 1850
+Wire Notes Line
+	3500 1500 1300 1500
+Wire Notes Line
+	3500 1500 3500 2900
+Wire Notes Line
+	3500 2900 1300 2900
+Wire Notes Line
+	1300 2900 1300 1500
+Connection ~ 1550 1850
 Wire Wire Line
-	3350 1850 3000 1850
+	1550 2300 1550 1700
 Wire Wire Line
-	3000 1850 2800 1850
+	3000 1900 3000 1850
+Connection ~ 1550 2250
 Wire Wire Line
-	3000 2300 3000 2350
-Wire Wire Line
-	1550 2700 1550 2750
-Wire Wire Line
-	1700 2050 1700 2100
+	1550 2250 1700 2250
 Wire Wire Line
 	1550 1850 1700 1850
 Wire Wire Line
-	1550 2250 1700 2250
-Connection ~ 1550 2250
+	1700 2050 1700 2100
 Wire Wire Line
-	3000 1850 3000 1900
+	1550 2700 1550 2750
 Wire Wire Line
-	1550 1700 1550 1850
+	3000 2300 3000 2350
 Wire Wire Line
-	1550 1850 1550 2250
-Wire Wire Line
-	1550 2250 1550 2300
-Connection ~ 1550 1850
+	2800 1850 3350 1850
+Connection ~ 3000 1850
+$Comp
+L ATMEGA168A U?
+U 1 1 4ED7BF31
+P 8200 5150
+F 0 "U?" H 9200 4050 60  0000 C CNN
+F 1 "ATMEGA168A" H 8200 6150 60  0000 C CNN
+	1    8200 5150
+	1    0    0    -1  
+$EndComp
+Text Label 3200 1850 0    60   ~ 0
+VCC
 $Comp
 L +5V #PWR?
 U 1 1 4EB94229

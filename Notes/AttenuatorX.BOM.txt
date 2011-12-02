@@ -1,3 +1,11 @@
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+/////////////////////////////////
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Bill of Materials for AttenuatorX
+/////////////////////////////////
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+/////////////////////////////////
+
 
 
 SPDT RF Switches
@@ -136,6 +144,7 @@ Attenuation: 1-40 dB
 U/P: $3.00-$3.25
 
 
+Need medium power 1 dB (Rated for XX W) or 2 dB (Rated for XX W) attenuators for the front end.
 
 
 
@@ -144,7 +153,7 @@ U/P: $3.00-$3.25
 
 
 
-RF Detectors:
+RF Detector:
 
 LT5534
 http://search.digikey.com/us/en/products/LT5534ESC6%23TRMPBF/LT5534ESC6%23TRMPBFCT-ND/962666
@@ -218,6 +227,12 @@ U/P: $0.65
 T/P: $
 
 
+
+
+
+
+
+
 BOX HANDHELD TG 4.92 X 3.15 X 1.84"
 Project Enclosure
 P/N: 270102110
@@ -259,6 +274,10 @@ U/P: $10.11
 T/P: $10.11
 
 
+
+
+///// Trimmers for possible alignment attenuator \\\\\
+
 TRIMMER 200 OHM 0.25W SMD
 Trimmer/Potentiometer for alignment of attenuation to attenuators
 P/N: SM-42TW201
@@ -297,17 +316,7 @@ Qty:
 U/P: $2.79
 T/P: $
 
-
-KEYPAD 4 KEY MEMBRANE SW GRAY
-P/N: FMBN04BE
-http://search.digikey.com/us/en/products/FMBN04BE/360-2295-ND/1830605
-Switch Type Membrane (Snap Dome)
-Number of Keys 4
-Matrix (Columns x Rows) 1 x 4
-Legend Customizable (Included)
-Qty: 1
-U/P: $20.48
-T/P: $20.48
+///// End Trimmers \\\\\
 
 
 
@@ -454,7 +463,7 @@ U/P: $0.31
 T/P: $0.62
 
 
-uC Reset
+uC Reset Resistor
 RES 4.7K OHM 1/4W 5% 1206 SMD
 RMCF1206JT4K70
 http://search.digikey.com/scripts/DkSearch/dksus.dll?Detail&name=RMCF1206JT4K70CT-ND
