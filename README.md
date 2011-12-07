@@ -9,7 +9,7 @@ This project grew out of dissatisfaction for products currently on the market. A
 
 * 10 to 41 dB Attenuation in 0.5 dB Steps
 * 50 MHz to 3 GHz Operation
-* Up to 45 dBm Input Power
+* Up to 36 dBm Input Power
 
 ---
 
@@ -29,4 +29,20 @@ This project grew out of dissatisfaction for products currently on the market. A
 * ./Firmware/ --> Firmware for both projects (Written in C Utilizing AVR Studio 5 and AVRGCC)
 * ./Notes/ --> Project Notes, BOM, and Research on Attenuation and attenuators
 
-We welcome assistance, and additional information, research, and notes can be found at http://www.projectsandstuff.com, or email us at support@projectsandstuff.com
+---
+
+Additional information, research, and notes can be found at http://www.projectsandstuff.com, or email us at support@projectsandstuff.com
+
+Let us know if you fork and make improvements. We'd be glad to consider merges that improve this project.
+
+---
+
+UPDATES:
+
+
+---
+
+CURRENT AUTHORS:
+
+> [Jack Linke](http://www.jacklinke.com)
+jacklinke@gmail.com
