@@ -38,9 +38,7 @@ Let us know if you fork and make improvements. We'd be glad to consider merges t
 ---
 
 UPDATES:
-
-20120406 - Currently working on sourcing a supply of cases for this project, prior to figuring out the best route for the board designs.
-
+All updates can be found in the Project Log, within the Notes folder.
 
 ---
 
